@@ -1,3 +1,3 @@
 There is a girl named Java went to a CS400 party. There are two young men whose name is Vim and Emacs. They are good friends and they all admire Java for her beauty and kindness. Now, Java is sitting on the bar table. Both Vim and Emacs want to give it a try. 
 They go over to Java and start cracking jokes to her. Her response, "System.out.println("LOL"). It turned into a competition for the two of them and from there forward they each tried to make Java laugh the hardest.
-
+Vim, known for his charm and approachability, rattled joke after joke. Java was erupting with "System.out.println("Lmaos"). Emacs would try to rebuttle, yet his jokes just confused everyone. His jokes had so many layers and were to complex. Java eventually grew bored of the attention. Emacs was making her head spin. She finished off her drink and went to bed leaving both gentlemen in awe of her beauty. 
